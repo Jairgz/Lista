@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS + SD" tvg-logo="https://i.imgur.com/MRTheU7.png" group-title="CONEXIONES LENTAS",WIN SPORTS + SD
+http://mastertv.pro:8080/angela/angela/69355
+#EXTINF:-1 tvg-id="634dtv.co" tvg-name="WIN SPORTS + OPCION 1" tvg-logo="http://mastertv.pro:8080/images/0033073fbebd534d44bc832aaf538bcc.png" group-title="DEPORTES COLOMBIA",WIN SPORTS + OPCION 1
+http://mastertv.pro:8080/angela/angela/76703
